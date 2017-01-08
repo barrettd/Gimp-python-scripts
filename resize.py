@@ -57,7 +57,6 @@ def generate_mac( img, keySize, key1xSize, directory, filebase ):
 
 # Images
 imageDir  = '/Volumes/Data/Pictures/Games/tumble/master/'
-pngType   = '.png'
 
 # Bot - key image
 botName   = 'bot'
